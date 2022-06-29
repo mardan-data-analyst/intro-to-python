@@ -1,2 +1,2 @@
 # intro-to-python
-Global AI Hub Python Bootcamp guidied tutorial codes and exercise codes
+Guided tutorial codes and exercise codes of Global AI Hub Python Bootcamp course Introduction to Python
